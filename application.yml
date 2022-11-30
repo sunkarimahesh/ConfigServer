@@ -3,7 +3,7 @@ insurance:
    url: http://localhost:8080/insurance-service/getAllPlans
    
 microservice:
-    details: A superb one Maxy
+    details: A superb one Maxy changed
 
 eureka:
  instance:
